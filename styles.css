@@ -1,0 +1,101 @@
+.bodyshape {    
+
+background-color: white;
+flex-shrink: 0;
+}
+ .new-year{
+    text-align: center;
+    color: azure;
+    
+ 
+     background-image: url(images/Banner\ Image.png);
+    background-position-x: center;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    margin: auto;
+
+
+ }
+
+ .center
+ {  
+
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        fill: #FFF;
+        padding: 0%;
+    
+   }
+.padding-size{
+
+    padding: 120px;
+    width: 1600px;
+    height: 7335px;
+    text-align: center;
+}
+.sixty{ 
+    text-align: center;
+}
+.off-design{   
+    color: #F00;
+    font-family: Inter;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    
+    
+   width: 350px;
+   border: 2px solid rgb(100, 73, 233);
+   padding: 5px;
+   margin: 5px;
+   
+    
+
+}
+.holiday{
+    color: red;
+    
+}
+ .second-section   {    
+    padding: 120px;
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    text-align: center;
+    background-image: url(images/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    max-width: 100%;
+    height: auto;
+    color: #FFF;
+    
+    
+ }
+
+
+ .third-section
+ {
+    background-color:rgb(202, 183, 159)
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+     }
+ .prim-color{  
+    color: #F00 ;
+  }
+  .btn-color{
+    color:red   
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    border-radius: 8px;
+     background: #F00;
+  }
